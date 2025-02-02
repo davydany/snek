@@ -3,7 +3,7 @@ name = "uv"
 version = "0.1.0"
 description = "SNEK (Software, Networking, & Engineering Kit): a concise suite of cybersecurity, Python utilities, and DB tools for efficient workflows."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "st-pages>=1.0.1",
     "streamlit>=1.41.1",
