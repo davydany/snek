@@ -16,3 +16,13 @@ practices for getting the most out of SNEK’s integrated toolset.
 
 ### Installation for Development
 
+1. Clone the repository: `git clone https://github.com/davydany/snek.git`
+2. Navigate to the repository: `cd snek`
+3. Install dependencies: `uv sync`
+4. Activate the environment: `source .venv/bin/activate`
+5. Run the app: `streamlit run src/snek/app.py`
+
+### Installation for Production
+
+TBD
+
