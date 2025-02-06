@@ -24,5 +24,5 @@ practices for getting the most out of SNEK’s integrated toolset.
 
 ### Installation for Production
 
-TBD
+Deployed onto: https://davydany-snek.streamlit.app/
 

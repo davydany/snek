@@ -5,6 +5,11 @@ description = "SNEK (Software, Networking, & Engineering Kit): a concise suite o
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "docling>=2.18.0",
+    "markdown>=3.7",
+    "openai>=1.61.1",
+    "pdfkit>=1.0.0",
+    "python-docx>=1.1.2",
     "st-pages>=1.0.1",
     "streamlit>=1.41.1",
 ]
